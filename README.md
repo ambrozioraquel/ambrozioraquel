@@ -13,3 +13,5 @@ Aqui vc encontra projetos que utilizam as seguintes linguagens/frameworks e ferr
   <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
+Perfil que usei para os projetos realizado durante o curso de Ciência da Computação na UFCG: https://github.com/raquelfonseca
+
